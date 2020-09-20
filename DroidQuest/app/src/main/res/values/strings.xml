@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DroidQuest</string>
+    <string name="question_text">DroidQuest</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Back</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть !</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+    <string name="question_android">OC Android основана на ядре Linux.</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в строки и столбцы.</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляют доступ к данным.</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе.</string>
+</resources>
